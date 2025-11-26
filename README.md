@@ -58,15 +58,5 @@ Provides actionable insights for YouTube moderation:
 - Prioritize regional moderation needs
 - Guide platform safety policy
 
----
-
-### 👩‍💻 Author
-**Soniya B**  
-Aspiring Data Analyst  
-Open to Data Analytics & Trust & Safety roles!  
-📧 Email: *(add your email here)*  
-📌 LinkedIn: *(add your LinkedIn profile here)*
-
----
 
 ⭐ If you like this project, support by giving it a ⭐️ on GitHub!
